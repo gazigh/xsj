@@ -46,15 +46,6 @@ Debian 7里面有一个软件包需要手动升级到较新版, `# pip3 install 
 
 ```sh
 # dnf install bcloud
-
-| vfdv     |     |     |     |
-| -------- | --- | --- | --- |
-| fdvdv    |     |     |     |
-|          |     |     |     |
-| vdvssvds |     |     |     |
-|          |     |     |     |
-|          |     |     |     |
-
 ```
 
 打包脚本: [bcloud.spec](https://github.com/FZUG/repo/blob/master/rpms/SPECS/bcloud/bcloud.spec)
