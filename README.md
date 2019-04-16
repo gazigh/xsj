@@ -45,7 +45,7 @@ Debian 7里面有一个软件包需要手动升级到较新版, `# pip3 install 
 添加 [FZUG源](https://github.com/FZUG/repo/wiki/FZUG) 后，执行以下命令安装 bcloud, 目前支持 fc21, fc22 :
 
 ```sh
-# dnf install bcloud
+# dnf install bcloudfddfdf
 ```
 
 打包脚本: [bcloud.spec](https://github.com/FZUG/repo/blob/master/rpms/SPECS/bcloud/bcloud.spec)
