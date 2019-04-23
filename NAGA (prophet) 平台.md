@@ -7,5 +7,7 @@ grammar_cjkRuby: true
 
 欢迎来到 **{先知}(prophet)** 平台
 ### 内容介绍
-### 工作原理
-### API
+
+ - 工作原理
+ - stub
+ - api相关
