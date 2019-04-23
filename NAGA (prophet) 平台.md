@@ -23,4 +23,8 @@ prophet 服务器是用Django开发的web_api服务器,主要负责数据接受,
 ![Diagram](./attachments/1556016589378.drawio.html)
 #### stub
 各个微服务的统一结构体方法
+#### 项目结构
+![enter description here](./images/2019-04-23_19-15-06屏幕截图.png)
+
+ - 模块说明
 
