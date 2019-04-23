@@ -4,7 +4,7 @@ tags: web,django,python,naga平台,API
 grammar_cjkRuby: true
 ---
 
-[tip!]
+[toc!]
 
 欢迎来到 **{先知}(prophet)** 平台
 ### 内容介绍
